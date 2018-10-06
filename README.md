@@ -1,5 +1,6 @@
-# jna-example
-Simple Java JNA example with a Maven build script.
+# Simple Java JNA Example with a Maven Build Script.
+
+I create this project as a JNA quick start.  More information at my [blog post](https://www.heatonresearch.com/2018/10/02/jna-quickstart.html).
 
 ```
 Window, hwnd:native@0x1014a, total 1 Title: G
